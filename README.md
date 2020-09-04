@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-#Maven Build
-=======
-# maven-project
+# Maven Build
 
-Simple Maven Project
->>>>>>> 11adc09967e91ac9907f45528cbfb77a2ff20272
+
+## Demonstration of a pipeline using Jenkins, Docker, Ansible and Kubernetes
